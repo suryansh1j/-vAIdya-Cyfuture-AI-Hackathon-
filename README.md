@@ -1,4 +1,4 @@
-# VaidyaCFW  
+# vAIdya
 **AI Assistant for Medical Audio & Diagnostic Notes**
 
 **Cyfuture AI Hackathon 1.0 Submission**
@@ -7,7 +7,7 @@
 
 ## 🚀 Project Overview
 
-VaidyaCFW is a web application that helps doctors convert patient audio (symptoms, consultations) into **structured medical notes** and **diagnostic suggestions** using AI/ML. The goal is to save doctors’ time, reduce errors, and bring advanced tools to clinics of all sizes.
+vAIdya is a web application that helps doctors convert patient audio (symptoms, consultations) into **structured medical notes** and **diagnostic suggestions** using AI/ML. The goal is to save doctors’ time, reduce errors, and bring advanced tools to clinics of all sizes.
 
 - Users can **upload or record audio** (patient consultation)  
 - The system transcribes and processes it via ML models  
