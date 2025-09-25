@@ -1,0 +1,13 @@
+cuff
+chest_pain
+headache
+fatigue
+muscle_pain
+abdominal_pain
+congestion
+skin_rash
+joint_pain
+sweating
+chills
+restlessness
+cough

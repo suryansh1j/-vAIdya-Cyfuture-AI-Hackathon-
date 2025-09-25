@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Audio Upload & Patient Info</title>
+  <link rel="stylesheet" href="../style/index.css" />
+</head>
+<body>
+  <h2>Upload Audio Recording</h2>
+  <label for="audioFile" id="uploadLabel">Choose Audio File</label>
+  <input type="file" id="audioFile" accept=".m4a,.wav" />
+  <button id="uploadBtn">Upload</button>
+
+
+  <h3>Extracted Patient Info:</h3>
+  <pre id="patientInfo">No data yet.</pre>
+  <button id="notesBtn" onclick="window.location.href='doctor_notes.html'">View Doctor's Notes</button>
+  <script src="../scripts/index.js"></script>
+</body>
+</html>

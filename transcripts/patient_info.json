@@ -1,0 +1,12 @@
+{
+  "PatientName": null,
+  "Age": null,
+  "Gender": null,
+  "ChiefComplaint": "asthma allergies",
+  "PastMedicalHistory": "asthma allergies",
+  "FamilyHistory": "asthma allergies",
+  "PreviousSurgeries": "asthma allergies",
+  "Lifestyle": "asthma allergies",
+  "Allergies": "asthma allergies",
+  "CurrentMedications": "blood pressure pills"
+}
