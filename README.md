@@ -63,6 +63,7 @@ VaidyaCFW is a web application that helps doctors convert patient audio (symptom
 
 ## 🏗 Technical Architecture
 
+```
 +---------------------+        +----------------------------+
 |  Frontend           | <----> |  Backend                   |
 |  (React / Next.js)  |        |  (Node.js / Express / API) |
@@ -85,7 +86,7 @@ VaidyaCFW is a web application that helps doctors convert patient audio (symptom
                           |   Storage / Database (Cloud)  |
                           +-------------------------------+
 
-
+```
 Key points:
 
 - Frontend built with React / Next.js, deployed on Vercel  
